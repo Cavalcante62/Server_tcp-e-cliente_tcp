@@ -5,8 +5,7 @@ Requisitos:
 - python 3.12
   
 Passos para teste:
-* crie um ambiente virtual (venv)
-* mova os arquivos ou copie o código para arquivos dentro do venv
+* coloque os dois arquivos no diretorio em que seu terminal está
 * isso permitira qua você execute o arquivo com (python nome_do_arquiv.py) no termianl
 * inicie o server_tcp.py em um terminal
 * em seguida inicie o cliente_tcp.py em outro terminal
